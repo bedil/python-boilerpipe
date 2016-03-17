@@ -1,6 +1,9 @@
 =================
 python-boilerpipe
 =================
+Update for Python 3.5
+Fixes the 'unicode' type and the obsolete 'urllib2' reference
+--
 
 A python wrapper for Boilerpipe_, an excellent Java library for boilerplate removal and fulltext extraction from HTML pages. 
 
